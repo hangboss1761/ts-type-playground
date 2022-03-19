@@ -1,0 +1,26 @@
+{
+  "name": "ts-type-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts",
+    "ts type",
+    "ts type challenges",
+    "ts type playground",
+    "typescript",
+    "typescript type",
+    "typescript type challenges",
+    "typescript type playground"
+  ],
+  "author": "hangboss1761",
+  "license": "ISC",
+  "dependencies": {
+    "@type-challenges/utils": "^0.1.1",
+    "typescript": "^4.6.2"
+  }
+}
