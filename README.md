@@ -23,9 +23,9 @@
 <!-- 简单 -->
 ### <img src="https://img.shields.io/badge/%E7%AE%80%E5%8D%95-13-7aad0c" alt="13"/>
 
-- [ ] <a href="./questions/4-easy-pick/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/4-easy-pick/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-4%E3%83%BB%E5%AE%9E%E7%8E%B0%20Pick-7aad0c" alt="4・实现 Pick" /></a>
-- [ ] <a href="./questions/7-easy-readonly/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/7-easy-readonly/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-7%E3%83%BB%E5%AE%9E%E7%8E%B0%20Readonly-7aad0c" alt="7・实现 Readonly" /></a>
 - [ ] <a href="./questions/11-easy-tuple-to-object/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-11%E3%83%BB%E5%85%83%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%AF%B9%E8%B1%A1-7aad0c"
