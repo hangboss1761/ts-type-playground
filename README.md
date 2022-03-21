@@ -27,10 +27,10 @@
   src="https://img.shields.io/badge/-4%E3%83%BB%E5%AE%9E%E7%8E%B0%20Pick-7aad0c" alt="4・实现 Pick" /></a>
 - [x] <a href="./questions/7-easy-readonly/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-7%E3%83%BB%E5%AE%9E%E7%8E%B0%20Readonly-7aad0c" alt="7・实现 Readonly" /></a>
-- [ ] <a href="./questions/11-easy-tuple-to-object/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/11-easy-tuple-to-object/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-11%E3%83%BB%E5%85%83%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%AF%B9%E8%B1%A1-7aad0c"
   alt="11・元组转换为对象" /></a>
-- [ ] <a href="./questions/14-easy-first/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/14-easy-first/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-14%E3%83%BB%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0-7aad0c"
   alt="14・第一个元素" /></a>
 - [ ] <a href="./questions/18-easy-tuple-length/README.zh-CN.md" target="_blank"><img
