@@ -33,10 +33,10 @@
 - [x] <a href="./questions/14-easy-first/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-14%E3%83%BB%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%83%E7%B4%A0-7aad0c"
   alt="14・第一个元素" /></a>
-- [ ] <a href="./questions/18-easy-tuple-length/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/18-easy-tuple-length/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-18%E3%83%BB%E8%8E%B7%E5%8F%96%E5%85%83%E7%BB%84%E9%95%BF%E5%BA%A6-7aad0c"
   alt="18・获取元组长度" /></a>
-- [ ] <a href="./questions/43-easy-exclude/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/43-easy-exclude/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-43%E3%83%BBExclude-7aad0c" alt="43・Exclude" /></a>
 - [ ] <a href="./questions/189-easy-awaited/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-189%E3%83%BBAwaited-7aad0c" alt="189・Awaited" /></a>
