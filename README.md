@@ -38,11 +38,11 @@
   alt="18・获取元组长度" /></a>
 - [x] <a href="./questions/43-easy-exclude/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-43%E3%83%BBExclude-7aad0c" alt="43・Exclude" /></a>
-- [ ] <a href="./questions/189-easy-awaited/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/189-easy-awaited/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-189%E3%83%BBAwaited-7aad0c" alt="189・Awaited" /></a>
-- [ ] <a href="./questions/268-easy-if/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/268-easy-if/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-268%E3%83%BBIf-7aad0c" alt="268・If" /></a>
-- [ ] <a href="./questions/533-easy-concat/README.zh-CN.md" target="_blank"><img
+- [x] <a href="./questions/533-easy-concat/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-533%E3%83%BBConcat-7aad0c" alt="533・Concat" /></a>
 - [ ] <a href="./questions/898-easy-includes/README.zh-CN.md" target="_blank"><img
   src="https://img.shields.io/badge/-898%E3%83%BBIncludes-7aad0c" alt="898・Includes" /></a>
